@@ -1,0 +1,12 @@
+.op{
+   
+ color: azure;
+background-color: black;
+
+border: 20px solid red;
+margin: 25px ;
+padding: 100px ;
+
+box-shadow: 10px 10px 10px rgb(22, 195, 34);
+
+}
